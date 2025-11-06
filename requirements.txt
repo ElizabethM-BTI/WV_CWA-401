@@ -1,0 +1,11 @@
+# Core dependencies
+beautifulsoup4>=4.12.0
+
+# For Playwright version (RECOMMENDED)
+playwright>=1.40.0
+
+# For traditional version (may be blocked by anti-bot protection)
+requests>=2.31.0
+lxml>=4.9.0
+cloudscraper>=1.2.71
+selenium>=4.15.0

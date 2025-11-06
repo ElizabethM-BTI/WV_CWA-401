@@ -1,0 +1,49 @@
+# Downloaded PDFs and output
+downloaded_pdfs/
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Playwright browsers
+ms-playwright/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debugging artifacts
+page_source.html
+page_screenshot.png
